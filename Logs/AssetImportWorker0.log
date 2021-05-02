@@ -1,0 +1,2686 @@
+Using pre-set license
+Built from '2020.2/china_unity/release' branch; Version is '2020.2.0f1c1 (f2fe8b73675a) revision 15924875'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 15295 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\2020.2.0f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/MCUL
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62510
+Successfully changed project path to: F:/MCUL
+F:/MCUL
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1c1 (f2fe8b73675a)
+[Subsystems] Discovering subsystems at path F:/Unity/2020.2.0f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/MCUL/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     7647 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'F:/Unity/2020.2.0f1c1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2020.2.0f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/2020.2.0f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2020.2.0f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: F:/Unity/2020.2.0f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003889 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.664 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1534.
+Total: 3.411200 ms (FindLiveObjects: 0.536700 ms CreateObjectMapping: 0.329700 ms MarkObjects: 2.464500 ms  DeleteObjects: 0.076900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Python
+  artifactKey: Guid(574a66faeaefb494495a47bf94f17e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Python using Guid(574a66faeaefb494495a47bf94f17e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52edb55c5c2370f7725c2d116f856e5') in 0.010835 seconds
+  Import took 0.013956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(79b081b5d1733b742a4f2b2fdc9be53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(79b081b5d1733b742a4f2b2fdc9be53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29b6ec2c7ba3d794f4886304f7e9c14') in 0.009751 seconds
+  Import took 0.012804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Scripts/Python/GetAccessToken.py
+  artifactKey: Guid(40938b09c0dffcc46a27d0602620b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Python/GetAccessToken.py using Guid(40938b09c0dffcc46a27d0602620b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da77b2ccd31ab0bdf241d27b3ccd7f3') in 0.041916 seconds
+  Import took 0.046759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 4.030300 ms (FindLiveObjects: 0.270500 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.151600 ms  DeleteObjects: 1.530700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.737465 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(5ec525c65eb270d48b0693064b01938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(5ec525c65eb270d48b0693064b01938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e5d57716b4a26fa11d3123bfc42ab1') in 0.024233 seconds
+  Import took 0.027844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415240 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI
+  artifactKey: Guid(e364966c4d8e0b04b8b7d85b54c041c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI using Guid(e364966c4d8e0b04b8b7d85b54c041c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a57fbdad58b61ee5eb133d5de0886f') in 0.022908 seconds
+  Import took 0.026420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.523576 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI
+  artifactKey: Guid(92287e7ec97c2ac4b8c7b77cd7e53d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI using Guid(92287e7ec97c2ac4b8c7b77cd7e53d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782123cadd5da7e290c4bf524170a492') in 0.015364 seconds
+  Import took 0.018671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.606829 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/AlphaFlashingText.cs
+  artifactKey: Guid(4c4f52301f773d041898892669df52d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/AlphaFlashingText.cs using Guid(4c4f52301f773d041898892669df52d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0ce48ebc33d5f15461eb1e0dd3bdc7') in 0.023606 seconds
+  Import took 0.027399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002692 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/AlphaFlashingText.cs
+  artifactKey: Guid(4c4f52301f773d041898892669df52d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/AlphaFlashingText.cs using Guid(4c4f52301f773d041898892669df52d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0ce48ebc33d5f15461eb1e0dd3bdc7') in 0.004189 seconds
+  Import took 0.007051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.160873 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.shader
+  artifactKey: Guid(2001097d46977954e8f62e88f6f72529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.shader using Guid(2001097d46977954e8f62e88f6f72529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206225d8830e686d92fc192c0c4b425d') in 0.029819 seconds
+  Import took 0.033279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009421 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.shader
+  artifactKey: Guid(2001097d46977954e8f62e88f6f72529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.shader using Guid(2001097d46977954e8f62e88f6f72529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206225d8830e686d92fc192c0c4b425d') in 0.004752 seconds
+  Import took 0.007533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.599264 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.prefab
+  artifactKey: Guid(d9ae121a295b7ed4e8e7afdd5e12cf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.prefab using Guid(d9ae121a295b7ed4e8e7afdd5e12cf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d565236d2649eaee08eedc450c30c8') in 0.024571 seconds
+  Import took 0.028767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048892 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.prefab
+  artifactKey: Guid(d9ae121a295b7ed4e8e7afdd5e12cf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Alpha Flashing UI/Alpha Flashing Text.prefab using Guid(d9ae121a295b7ed4e8e7afdd5e12cf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d565236d2649eaee08eedc450c30c8') in 0.005984 seconds
+  Import took 0.009408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001177 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.054 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.0 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1591.
+Total: 6.422000 ms (FindLiveObjects: 0.338800 ms CreateObjectMapping: 0.091500 ms MarkObjects: 3.170900 ms  DeleteObjects: 2.817700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1242 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.3 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 5.515500 ms (FindLiveObjects: 0.258200 ms CreateObjectMapping: 0.070000 ms MarkObjects: 2.932700 ms  DeleteObjects: 2.252200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.422 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 5.172100 ms (FindLiveObjects: 0.309300 ms CreateObjectMapping: 0.082200 ms MarkObjects: 2.799100 ms  DeleteObjects: 1.979100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 462.159214 seconds.
+  path: Assets/Quantum Tek
+  artifactKey: Guid(3a4f0d756d773a94ca430a4d24f443ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek using Guid(3a4f0d756d773a94ca430a4d24f443ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bebb8f0588fab7e2af5fbfa7904dac') in 0.015970 seconds
+  Import took 0.019950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002361 seconds.
+  path: Assets/Quantum Tek
+  artifactKey: Guid(3a4f0d756d773a94ca430a4d24f443ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek using Guid(3a4f0d756d773a94ca430a4d24f443ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bebb8f0588fab7e2af5fbfa7904dac') in 0.004084 seconds
+  Import took 0.007810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.821590 seconds.
+  path: Assets/Clean Settings UI
+  artifactKey: Guid(36fa9b34e4133db45ab787aa592aad00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI using Guid(36fa9b34e4133db45ab787aa592aad00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ba4457c156e4465980ceb2f7889814') in 0.014328 seconds
+  Import took 0.017707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Clean Settings UI
+  artifactKey: Guid(36fa9b34e4133db45ab787aa592aad00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI using Guid(36fa9b34e4133db45ab787aa592aad00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ba4457c156e4465980ceb2f7889814') in 0.004001 seconds
+  Import took 0.007349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.716394 seconds.
+  path: Assets/Clean Settings UI/Prefabs
+  artifactKey: Guid(21c146f0023b18c49b752fd808555177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Prefabs using Guid(21c146f0023b18c49b752fd808555177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec9a179fcbbf1e3f1e233560f432e45') in 0.012914 seconds
+  Import took 0.016645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001428 seconds.
+  path: Assets/Clean Settings UI/Prefabs
+  artifactKey: Guid(21c146f0023b18c49b752fd808555177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Prefabs using Guid(21c146f0023b18c49b752fd808555177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec9a179fcbbf1e3f1e233560f432e45') in 0.003743 seconds
+  Import took 0.007571 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.360 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 5.105700 ms (FindLiveObjects: 0.273600 ms CreateObjectMapping: 0.052800 ms MarkObjects: 2.941100 ms  DeleteObjects: 1.835800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000733 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 5.581700 ms (FindLiveObjects: 0.291300 ms CreateObjectMapping: 0.095700 ms MarkObjects: 2.817100 ms  DeleteObjects: 2.374700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.218755 seconds.
+  path: Assets/GameSettings.cs
+  artifactKey: Guid(04c6c77e517d74543b69b9c94217525c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameSettings.cs using Guid(04c6c77e517d74543b69b9c94217525c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de33c7d5f796f08411095b29d1df52c') in 0.015037 seconds
+  Import took 0.018248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.432370 seconds.
+  path: Assets/Scripts/C#.cs
+  artifactKey: Guid(dd392c5aa277bee4a97dd54506943850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#.cs using Guid(dd392c5aa277bee4a97dd54506943850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebfbefd9d0e09f8308255b23bfc3b94') in 0.012605 seconds
+  Import took 0.016232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/Scripts/C#.cs
+  artifactKey: Guid(dd392c5aa277bee4a97dd54506943850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#.cs using Guid(dd392c5aa277bee4a97dd54506943850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebfbefd9d0e09f8308255b23bfc3b94') in 0.002965 seconds
+  Import took 0.007141 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 4.917300 ms (FindLiveObjects: 0.440500 ms CreateObjectMapping: 0.057600 ms MarkObjects: 2.398200 ms  DeleteObjects: 2.018600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.462527 seconds.
+  path: Assets/Scripts/C#
+  artifactKey: Guid(2d8dd525236db3249822d50bfaa3c88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C# using Guid(2d8dd525236db3249822d50bfaa3c88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b27bd6567cdc8237f4e137ff794a042') in 0.006725 seconds
+  Import took 0.010404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012942 seconds.
+  path: Assets/Scripts/C#
+  artifactKey: Guid(2d8dd525236db3249822d50bfaa3c88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C# using Guid(2d8dd525236db3249822d50bfaa3c88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b27bd6567cdc8237f4e137ff794a042') in 0.002773 seconds
+  Import took 0.006340 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000881 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 70.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 4.219800 ms (FindLiveObjects: 0.345900 ms CreateObjectMapping: 0.062400 ms MarkObjects: 2.112200 ms  DeleteObjects: 1.697300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.380074 seconds.
+  path: Assets/Scripts/C#/GameSettings_SO.cs
+  artifactKey: Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#/GameSettings_SO.cs using Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a098cf8ad69d4eb79785c488f9baab') in 0.013850 seconds
+  Import took 0.017344 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 4.333400 ms (FindLiveObjects: 0.203900 ms CreateObjectMapping: 0.040600 ms MarkObjects: 2.237300 ms  DeleteObjects: 1.849400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000908 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.487 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.4 MB.
+System memory in use after: 70.4 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 4.028100 ms (FindLiveObjects: 0.207500 ms CreateObjectMapping: 0.040700 ms MarkObjects: 1.988200 ms  DeleteObjects: 1.790000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.073637 seconds.
+  path: Assets/Scripts/C#/GameSettings_SO.cs
+  artifactKey: Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#/GameSettings_SO.cs using Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f478f91844eb44ecec9b3e87b8e47a56') in 0.018269 seconds
+  Import took 0.022290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.353044 seconds.
+  path: Assets/Scripts/C#/GameSettings_SO.cs
+  artifactKey: Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#/GameSettings_SO.cs using Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4881222d1e07d21a10f27e0433328b') in 0.003141 seconds
+  Import took 0.006512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000768 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 70.5 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 4.769300 ms (FindLiveObjects: 0.260400 ms CreateObjectMapping: 0.053300 ms MarkObjects: 2.520500 ms  DeleteObjects: 1.932100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 476.599763 seconds.
+  path: Assets/Scripts/C#/GameSettings_SO.cs
+  artifactKey: Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/C#/GameSettings_SO.cs using Guid(85f37a2d8f2cdb947bde2cbd8a5db7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93857802f136bb4ddcde1addc0ef167') in 0.005972 seconds
+  Import took 0.009047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.849128 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_disabled.png
+  artifactKey: Guid(e0310c386b09348d9a23f0797e8fbd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_disabled.png using Guid(e0310c386b09348d9a23f0797e8fbd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330c022a175f4564ba859a5a61acf7d6') in 0.137453 seconds
+  Import took 0.141278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/White Round Inactive Tab.png
+  artifactKey: Guid(291f7479bbc4e49769a1fad29d9dab9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/White Round Inactive Tab.png using Guid(291f7479bbc4e49769a1fad29d9dab9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ecbf6964cf70cc29e2e7703e44b39f') in 0.023006 seconds
+  Import took 0.027165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Question.png
+  artifactKey: Guid(8878f6aeee8f5456ba946015221cdc65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Question.png using Guid(8878f6aeee8f5456ba946015221cdc65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461201adb1eb8001b02c889f33f1b9d9') in 0.021899 seconds
+  Import took 0.025435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Round Button.png
+  artifactKey: Guid(f2d1db67f26a74f13bb10147155953dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Round Button.png using Guid(f2d1db67f26a74f13bb10147155953dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '239b626cae82efba409d12ac90012118') in 0.020202 seconds
+  Import took 0.023566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Left Arrow.png
+  artifactKey: Guid(a45ca74a8e3554df5862c1cc65fbc192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Left Arrow.png using Guid(a45ca74a8e3554df5862c1cc65fbc192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56cde2abe15dcacace98aeebbcb580c') in 0.018830 seconds
+  Import took 0.021811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Square Switch Off.png
+  artifactKey: Guid(db83a0473cb7d4d2583440567e3d0ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Square Switch Off.png using Guid(db83a0473cb7d4d2583440567e3d0ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7d1c8ae29315aaba8eb8ea8751656c') in 0.020727 seconds
+  Import took 0.024775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Rounded Button.png
+  artifactKey: Guid(1cfdba0090d5d4c7d9701ae3ff1699ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Rounded Button.png using Guid(1cfdba0090d5d4c7d9701ae3ff1699ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e02f44574ecb0622e4d9e4c5d807faa') in 0.023724 seconds
+  Import took 0.027405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Sound.png
+  artifactKey: Guid(e7ff8ffb2f30c4a898a73e447e53cc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Sound.png using Guid(e7ff8ffb2f30c4a898a73e447e53cc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315d6bcb96c9fccd38834b37da3bd7b8') in 0.020836 seconds
+  Import took 0.024298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_hover.png
+  artifactKey: Guid(0e08639b8bfe949768d235105f40f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_hover.png using Guid(0e08639b8bfe949768d235105f40f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d074ad62e6ac31b93fd00a7fdeea93') in 0.019275 seconds
+  Import took 0.022931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/White Rounded Window.png
+  artifactKey: Guid(1612ec7a0b26245809266786171f4559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/White Rounded Window.png using Guid(1612ec7a0b26245809266786171f4559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dc703af93db5a9f1822441a5d1d417') in 0.022922 seconds
+  Import took 0.026654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Rounded Switch On.png
+  artifactKey: Guid(73f86462d8ca748bfa6ce29a228ceb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Rounded Switch On.png using Guid(73f86462d8ca748bfa6ce29a228ceb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e5563489a54b71c29f5c22581f948d') in 0.018512 seconds
+  Import took 0.022126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White X.png
+  artifactKey: Guid(f1b2565520fde4893a9047ef83d215dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White X.png using Guid(f1b2565520fde4893a9047ef83d215dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66e32b1ff9ea18a858ccf0263c89e75') in 0.018524 seconds
+  Import took 0.021824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Gear.png
+  artifactKey: Guid(f55f75488890d4747835fc8299828fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Gear.png using Guid(f55f75488890d4747835fc8299828fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca451f1cc17882bb09574e175bb1b27') in 0.019447 seconds
+  Import took 0.022648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Round Outline Button.png
+  artifactKey: Guid(361685eeac9f141b09b365c40e020b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Round Outline Button.png using Guid(361685eeac9f141b09b365c40e020b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e59ec7ffaebe096fdf8da29134bfd8ae') in 0.019435 seconds
+  Import took 0.022849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Plus.png
+  artifactKey: Guid(2485a46199e57482fb858f4c4982436b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Plus.png using Guid(2485a46199e57482fb858f4c4982436b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c820969902099efecf7a02b097505aca') in 0.019517 seconds
+  Import took 0.023036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/White Stripes.png
+  artifactKey: Guid(338de845e320441e787608e5eb54ce36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/White Stripes.png using Guid(338de845e320441e787608e5eb54ce36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781ea2cef9ee8e2930a5cc1730e42ccc') in 0.022408 seconds
+  Import took 0.026049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_down.png
+  artifactKey: Guid(7f0335412a0044a149f71aeb77ff61b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_down.png using Guid(7f0335412a0044a149f71aeb77ff61b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf4bcf67726e20b6e5999057a873781') in 0.018553 seconds
+  Import took 0.021706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Circle Outline Button.png
+  artifactKey: Guid(23e031f1dfb7b4eddae812b4a3a0e268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Circle Outline Button.png using Guid(23e031f1dfb7b4eddae812b4a3a0e268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de907b5fef4126137d45e7b2ebb91a49') in 0.019478 seconds
+  Import took 0.022748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Right Arrow.png
+  artifactKey: Guid(56b5445fb30cc460a8bdf929fc626bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Right Arrow.png using Guid(56b5445fb30cc460a8bdf929fc626bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03d4ea0c16f4a131768c36d96d8bfbf') in 0.019821 seconds
+  Import took 0.022873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Dots.png
+  artifactKey: Guid(e322a7a418040463fb053c543d2ea9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Dots.png using Guid(e322a7a418040463fb053c543d2ea9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13ab848575e01d1a2f6e9537a18ba95') in 0.018582 seconds
+  Import took 0.021538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Square Switch On.png
+  artifactKey: Guid(081153d58139441329eddabc600e068d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Square Switch On.png using Guid(081153d58139441329eddabc600e068d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42dbcf130f148013b15222bf250e0cf3') in 0.018193 seconds
+  Import took 0.021408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Pause.png
+  artifactKey: Guid(f202d0535d8d34970abcfaa21aba2019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Pause.png using Guid(f202d0535d8d34970abcfaa21aba2019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b11dd1de268d4c3ec6c451f828d0e5') in 0.024170 seconds
+  Import took 0.027709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_down.png
+  artifactKey: Guid(bd73fe59d7c2747eeace8a3cf7a92671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_down.png using Guid(bd73fe59d7c2747eeace8a3cf7a92671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1a427cb61f6282e9f5831376f676c7') in 0.016635 seconds
+  Import took 0.019922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Checkmark.png
+  artifactKey: Guid(bf28281279a5e479c8105c959d2268aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Checkmark.png using Guid(bf28281279a5e479c8105c959d2268aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6f6757fb64213b1cdb67c4b47cdf50') in 0.020669 seconds
+  Import took 0.023341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Bars.png
+  artifactKey: Guid(bb5a5f985a9db4957a0522f2fc7e0894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Bars.png using Guid(bb5a5f985a9db4957a0522f2fc7e0894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4dba3626386162696a287ddbf216be4') in 0.019115 seconds
+  Import took 0.021840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Rounded Switch Off.png
+  artifactKey: Guid(292a2d83002c94c4c9ad558eca6802d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/White Rounded Switch Off.png using Guid(292a2d83002c94c4c9ad558eca6802d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d99c1b5a9b60751c81bfbc7ade7723') in 0.017877 seconds
+  Import took 0.021006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Play.png
+  artifactKey: Guid(4d100b612cc9d4bac8fee900296353ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Play.png using Guid(4d100b612cc9d4bac8fee900296353ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a1c83cce60dd7c6b3e04ba955dc25b') in 0.020382 seconds
+  Import took 0.023852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_disabled.png
+  artifactKey: Guid(1b0692daa539c49659e3b90580e17854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_disabled.png using Guid(1b0692daa539c49659e3b90580e17854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c978565c890e1c627c72c2e51672f0a') in 0.017204 seconds
+  Import took 0.020427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Rounded Outline Button.png
+  artifactKey: Guid(d7daffb0fa3284a03a5002d4f7d3fd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Rounded Outline Button.png using Guid(d7daffb0fa3284a03a5002d4f7d3fd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ac7aa358511e2ff8148a2db0c0291e') in 0.022036 seconds
+  Import took 0.025644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_up.png
+  artifactKey: Guid(7d30a7673c95044c5ba541d8597d4f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_up.png using Guid(7d30a7673c95044c5ba541d8597d4f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a1a089f1462508b84b9dc7bd2c6337') in 0.015899 seconds
+  Import took 0.018982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_hover.png
+  artifactKey: Guid(03ba77e79215547be8d047beaaf2e040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_hover.png using Guid(03ba77e79215547be8d047beaaf2e040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c012fdf8bffb5fb9e929842861e78f52') in 0.016802 seconds
+  Import took 0.020848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White House.png
+  artifactKey: Guid(05b85860d5cf649478cdd1a1ec3c95a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White House.png using Guid(05b85860d5cf649478cdd1a1ec3c95a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aef0f59a11f95ba4552f8624e4f921b') in 0.019641 seconds
+  Import took 0.023003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_up.png
+  artifactKey: Guid(6d5372022c03841b58c2b0d1d962d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_up.png using Guid(6d5372022c03841b58c2b0d1d962d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef71084d8d4441ec0f2069c955118bd') in 0.016991 seconds
+  Import took 0.020391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/White Round Tab.png
+  artifactKey: Guid(5ac0cae87edd146fea9dbf184c34a717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/White Round Tab.png using Guid(5ac0cae87edd146fea9dbf184c34a717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143a78529a30e15c4de24f1351e49edb') in 0.020067 seconds
+  Import took 0.023355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Up Arrow.png
+  artifactKey: Guid(e22d3a7dcdf3347a9bdbd9c26bf18385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Up Arrow.png using Guid(e22d3a7dcdf3347a9bdbd9c26bf18385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c20f85b510acdfea464444791e2ca16') in 0.022908 seconds
+  Import took 0.026453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_checkmark_disabled.png
+  artifactKey: Guid(bb746f211bf094d03bf276778d9ac0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_checkmark_disabled.png using Guid(bb746f211bf094d03bf276778d9ac0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9897e29a049aa592e2356a735f3952f') in 0.020887 seconds
+  Import took 0.024955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/White Checkerboard.png
+  artifactKey: Guid(71f179552933f4aff84739963a220f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/White Checkerboard.png using Guid(71f179552933f4aff84739963a220f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b3c8f1b9b4becf5b241d2d63ab9fb7') in 0.019381 seconds
+  Import took 0.022520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Mute.png
+  artifactKey: Guid(bc560b3b0ac724b68ad7810f7dcaad73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Mute.png using Guid(bc560b3b0ac724b68ad7810f7dcaad73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605c7526c4efd296f6577b71040474b6') in 0.021858 seconds
+  Import took 0.025346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/White Input Field.png
+  artifactKey: Guid(f552135dd8b234310af7e8710d71ad48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/White Input Field.png using Guid(f552135dd8b234310af7e8710d71ad48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27adca87dc2c431de2d6963e487c04b8') in 0.018969 seconds
+  Import took 0.021839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/White Square Window.png
+  artifactKey: Guid(f544e4f1ff5f9453084e1ff5e7d5e828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/White Square Window.png using Guid(f544e4f1ff5f9453084e1ff5e7d5e828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ce5ef11e432f0ada4c9218782ee93b') in 0.018266 seconds
+  Import took 0.021670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Circle Button.png
+  artifactKey: Guid(e6450a15ab10f4016a29e51bb1036188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Circle Button.png using Guid(e6450a15ab10f4016a29e51bb1036188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c1abec8a0e120c866f02e98682ef57') in 0.022758 seconds
+  Import took 0.026208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Square Button.png
+  artifactKey: Guid(dae719cc6ae5b4091b66fa23139b23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Square Button.png using Guid(dae719cc6ae5b4091b66fa23139b23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99ac7e205c301978ba4ff7705dbd71d') in 0.027988 seconds
+  Import took 0.033291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Info.png
+  artifactKey: Guid(31109ff4e70d141018ad17620c1728db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Info.png using Guid(31109ff4e70d141018ad17620c1728db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a375e0b40b9abd4e2fe0438de71c945') in 0.027320 seconds
+  Import took 0.032021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Exclamation.png
+  artifactKey: Guid(777beaf84bb8b41d4ae3fd993af441f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Exclamation.png using Guid(777beaf84bb8b41d4ae3fd993af441f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff842dee17258d4b212655d9d5123438') in 0.023700 seconds
+  Import took 0.028668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Minus.png
+  artifactKey: Guid(ff2a254658ad5427fbb6aa23e6c5ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Minus.png using Guid(ff2a254658ad5427fbb6aa23e6c5ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726760951372d46f80f98f4fe9ddb179') in 0.020787 seconds
+  Import took 0.023933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Down Arrow.png
+  artifactKey: Guid(ac1ea26e75c8e47a08fbbfa39f286d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/White Down Arrow.png using Guid(ac1ea26e75c8e47a08fbbfa39f286d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1d420f3acbbb9008a34b6d5088cd1c') in 0.017782 seconds
+  Import took 0.020544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Square Outline Button.png
+  artifactKey: Guid(e5343799bfa9e4e4c9edf6b3b99c0eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/White Square Outline Button.png using Guid(e5343799bfa9e4e4c9edf6b3b99c0eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c657da2d69d62b97f1cc43cc979be7f5') in 0.019693 seconds
+  Import took 0.023311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_checkmark.png
+  artifactKey: Guid(b59d8b3d6a1754128ac189a70f41db08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_checkmark.png using Guid(b59d8b3d6a1754128ac189a70f41db08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546569644b14a2fc4ba761a6e20f726a') in 0.016699 seconds
+  Import took 0.020434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.405154 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Square Switch On.png
+  artifactKey: Guid(4dc189fcf51084765988e5b7bb8bed7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Square Switch On.png using Guid(4dc189fcf51084765988e5b7bb8bed7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f28fa0159c772fcbfbc40896fe35d6') in 0.028487 seconds
+  Import took 0.031827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_up.png
+  artifactKey: Guid(ce68cc947949d4565aca31c42afdd6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_up.png using Guid(ce68cc947949d4565aca31c42afdd6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018648b1ac1c1130a2a539f2af581545') in 0.018435 seconds
+  Import took 0.021588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_hover.png
+  artifactKey: Guid(aa238a8b068cd4059abd32376ca2a34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_hover.png using Guid(aa238a8b068cd4059abd32376ca2a34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402f614728a83be0b2622cb1c35a12e3') in 0.019647 seconds
+  Import took 0.023461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Rounded Outline Button.png
+  artifactKey: Guid(1a6c2962623c74bc1ba317def2d16680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Rounded Outline Button.png using Guid(1a6c2962623c74bc1ba317def2d16680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29d7fd6cd242337f2753e2d5594aae0') in 0.020321 seconds
+  Import took 0.023267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Rounded Button.png
+  artifactKey: Guid(c1f270fc399274b49ababce4dfd30d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Rounded Button.png using Guid(c1f270fc399274b49ababce4dfd30d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72679c536c2e35a500cb58b2b44fd3f') in 0.018797 seconds
+  Import took 0.022065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Clean Settings UI/Images/icons/settings.png
+  artifactKey: Guid(63d7456a83f9249f38c0c39d49c22199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/settings.png using Guid(63d7456a83f9249f38c0c39d49c22199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21764be51ab53f531e355299e87a557') in 0.016724 seconds
+  Import took 0.019757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Clean Settings UI/Images/icons/redo.png
+  artifactKey: Guid(84712bc2d718a4d729f7a82e44166d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/redo.png using Guid(84712bc2d718a4d729f7a82e44166d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8035749c2d66067bdfaf2681e3a35ee') in 0.022369 seconds
+  Import took 0.025692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Square Switch Off.png
+  artifactKey: Guid(fdfa37b3878264042b15f7358338e199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Square Switch Off.png using Guid(fdfa37b3878264042b15f7358338e199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375401c783cc7a044aa6d8f50f05a7f7') in 0.017642 seconds
+  Import took 0.020635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Square Outline Button.png
+  artifactKey: Guid(511ac66591df94f2490927beaa96acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Square Outline Button.png using Guid(511ac66591df94f2490927beaa96acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6fa75027ddd23c778b6b3ac64a64ff') in 0.020022 seconds
+  Import took 0.023247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Round Button.png
+  artifactKey: Guid(dca951feb01de487f97d842fbe9fb1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Round Button.png using Guid(dca951feb01de487f97d842fbe9fb1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5f41881afaac2c648560eb6e13af7f') in 0.020966 seconds
+  Import took 0.024483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Red Square Window.png
+  artifactKey: Guid(27a61c3d0bc70471fb85b08b1faf6251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Red Square Window.png using Guid(27a61c3d0bc70471fb85b08b1faf6251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffee626a7e24ced8bfa1cfd947baafa1') in 0.022002 seconds
+  Import took 0.025974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Square Button.png
+  artifactKey: Guid(b63016ec16ac04cfbaf61580a21a4d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Square Button.png using Guid(b63016ec16ac04cfbaf61580a21a4d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7721abbe04dac8c34cfbd09fccdb5b') in 0.019645 seconds
+  Import took 0.023114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Red Round Tab.png
+  artifactKey: Guid(006f88eb96b2444f7b0ca916c60fec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Red Round Tab.png using Guid(006f88eb96b2444f7b0ca916c60fec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7212cf936d14e4764cd2cb2175cb845') in 0.019497 seconds
+  Import took 0.023019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Clean Settings UI/Images/line_disabled.png
+  artifactKey: Guid(f842cf0250b4741f98637349549d6cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_disabled.png using Guid(f842cf0250b4741f98637349549d6cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226b17e72f7ba21b883e3a6974339e94') in 0.017433 seconds
+  Import took 0.021132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Clean Settings UI/Images/line_hover.png
+  artifactKey: Guid(ec27cb008721b40839120717c5108472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_hover.png using Guid(ec27cb008721b40839120717c5108472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9517d00131ba0b3b50ee6dc47349029f') in 0.017824 seconds
+  Import took 0.021239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Round Outline Button.png
+  artifactKey: Guid(543b3bfb0b8044678ab13fbe1b99886f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Round Outline Button.png using Guid(543b3bfb0b8044678ab13fbe1b99886f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c51855ce9c8d46cb8c58bf81d3c2bea') in 0.021601 seconds
+  Import took 0.025136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_down.png
+  artifactKey: Guid(d560951d64728465d8985378b1101f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_down.png using Guid(d560951d64728465d8985378b1101f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc570012a486e2b220d7e6d4b58228c') in 0.019779 seconds
+  Import took 0.023212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Circle Outline Button.png
+  artifactKey: Guid(9933a3b8f6b6243229059924b14bc48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Circle Outline Button.png using Guid(9933a3b8f6b6243229059924b14bc48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed2c96ec8dd62633a922ccef8477b04') in 0.019736 seconds
+  Import took 0.023328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Red Stripes.png
+  artifactKey: Guid(af7fd3c28a4714137aa51a67d07709cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Red Stripes.png using Guid(af7fd3c28a4714137aa51a67d07709cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6dd9e5d511f2ec4e9712e24d954c26') in 0.019918 seconds
+  Import took 0.023598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Red Round Inactive Tab.png
+  artifactKey: Guid(c5c88878883a3449b838351c70fe3608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Red Round Inactive Tab.png using Guid(c5c88878883a3449b838351c70fe3608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bddd98a1b84708108eaee3c0cc4ea2a') in 0.020546 seconds
+  Import took 0.024082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Rounded Switch On.png
+  artifactKey: Guid(0abaefb49cb9f499faaa0e59e90d7e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Rounded Switch On.png using Guid(0abaefb49cb9f499faaa0e59e90d7e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a76ff9860547fc225a2c6e968eff1ca') in 0.020350 seconds
+  Import took 0.023493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Red Checkerboard.png
+  artifactKey: Guid(ec44aff29dad74095b976479ebc66af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Red Checkerboard.png using Guid(ec44aff29dad74095b976479ebc66af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9657ea62aece2fe7360ac64bf76ca4f4') in 0.029096 seconds
+  Import took 0.032073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Red Rounded Window.png
+  artifactKey: Guid(f79c91048c950436ca75cb699c7a34bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Red Rounded Window.png using Guid(f79c91048c950436ca75cb699c7a34bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1d55d64e1b713a28c70db703402121') in 0.017916 seconds
+  Import took 0.021283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Red Input Field.png
+  artifactKey: Guid(9b7d83189e043421abd9b3bce627d152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Red Input Field.png using Guid(9b7d83189e043421abd9b3bce627d152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de857cab903e9e865b08a1aeb745bdf') in 0.020001 seconds
+  Import took 0.022742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Rounded Switch Off.png
+  artifactKey: Guid(68861e1744d114856b34bf45a409f326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Red Rounded Switch Off.png using Guid(68861e1744d114856b34bf45a409f326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cdaf086604e5786e24c17f82ed98f00') in 0.022190 seconds
+  Import took 0.025819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_disabled.png
+  artifactKey: Guid(236fe33ac072944f983f4ac8b459d751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_disabled.png using Guid(236fe33ac072944f983f4ac8b459d751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1910a389063cc0c33204dfa3f1bcead4') in 0.018631 seconds
+  Import took 0.022040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Clean Settings UI/Images/line_up.png
+  artifactKey: Guid(9e2d822313e334202882421561b93b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_up.png using Guid(9e2d822313e334202882421561b93b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9473e02df67e7a83cda918592867e767') in 0.018994 seconds
+  Import took 0.022388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Circle Button.png
+  artifactKey: Guid(7efd4168743fc4c218a9101148393244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Red Circle Button.png using Guid(7efd4168743fc4c218a9101148393244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fec466a0c9878f645916d93c3621e76') in 0.020669 seconds
+  Import took 0.024049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Clean Settings UI/Images/scrollhandle.png
+  artifactKey: Guid(8c05173172a204c4f8d01299c77dc101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/scrollhandle.png using Guid(8c05173172a204c4f8d01299c77dc101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c7a35f11b8186c8c1bf0b5417339f2') in 0.017361 seconds
+  Import took 0.020974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Clean Settings UI/Images/icons/pause.png
+  artifactKey: Guid(f47f7717e1e2c4a5d956a8565e66436b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/pause.png using Guid(f47f7717e1e2c4a5d956a8565e66436b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9696e63181771e5eaf85922d227d88ca') in 0.016234 seconds
+  Import took 0.019290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243068 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Rounded Switch On.png
+  artifactKey: Guid(8d63f0731b37c4f8a92f30aed16fd0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Rounded Switch On.png using Guid(8d63f0731b37c4f8a92f30aed16fd0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653f073a9f90b64d1e32296fc347aa5a') in 0.017147 seconds
+  Import took 0.019999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Square Outline Button.png
+  artifactKey: Guid(8d2d66a13291340f1acbb8bca320d151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Square Outline Button.png using Guid(8d2d66a13291340f1acbb8bca320d151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e26af67388237fda0648f22eb1aecf') in 0.019456 seconds
+  Import took 0.022767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Circle Button.png
+  artifactKey: Guid(9bf5fe38fdda04af29528c06a571c837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Circle Button.png using Guid(9bf5fe38fdda04af29528c06a571c837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361561ea21be0751ef48e731681be1a4') in 0.019902 seconds
+  Import took 0.023554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Green Round Inactive Tab.png
+  artifactKey: Guid(d0e862efef437402cbac5561e0c41ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Green Round Inactive Tab.png using Guid(d0e862efef437402cbac5561e0c41ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc14f3bfbd94b913dc511621454b9297') in 0.023799 seconds
+  Import took 0.027683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Rounded Button.png
+  artifactKey: Guid(39a35d5e6ddab4e4da9ea5e72286253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Rounded Button.png using Guid(39a35d5e6ddab4e4da9ea5e72286253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4965756fc00caf9602b53c376063a291') in 0.025988 seconds
+  Import took 0.029393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Green Stripes.png
+  artifactKey: Guid(fd001d1555320480192a250126182e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Green Stripes.png using Guid(fd001d1555320480192a250126182e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f34a68b44fa689202604d9d42d96f55') in 0.020226 seconds
+  Import took 0.023209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Round Outline Button.png
+  artifactKey: Guid(40689eed5d9294eddb110e5b43f5bdff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Round Outline Button.png using Guid(40689eed5d9294eddb110e5b43f5bdff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bca8719c2be5026b7824c8adc9cd152') in 0.022954 seconds
+  Import took 0.026590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Square Switch On.png
+  artifactKey: Guid(080cf1c8b2e3243bd8caf2c7275f36d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Square Switch On.png using Guid(080cf1c8b2e3243bd8caf2c7275f36d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297a24b5fafcca4d05f559b45813b7b8') in 0.027247 seconds
+  Import took 0.031082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Green Input Field.png
+  artifactKey: Guid(c8f60bd04999c401fa9fd3dbbd0dbb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Green Input Field.png using Guid(c8f60bd04999c401fa9fd3dbbd0dbb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c7884890af849bc9643a77c09c554d') in 0.018037 seconds
+  Import took 0.021649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Rounded Outline Button.png
+  artifactKey: Guid(cc4159309963a4576864561a4f6d8d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Rounded Outline Button.png using Guid(cc4159309963a4576864561a4f6d8d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17297e4ea96a43c881180fc3bdf30432') in 0.017226 seconds
+  Import took 0.020908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Round Outline Button.png
+  artifactKey: Guid(40c84cb4693f74c73acdbe064b8d7000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Round Outline Button.png using Guid(40c84cb4693f74c73acdbe064b8d7000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e0b7906e4f09f15da5178b6c0b3d95') in 0.020457 seconds
+  Import took 0.024243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Dark Round Inactive Tab.png
+  artifactKey: Guid(d00475e1c93c0468a96b7dd4d72003e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Dark Round Inactive Tab.png using Guid(d00475e1c93c0468a96b7dd4d72003e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a83cf4144226882b934751d229ef15') in 0.019629 seconds
+  Import took 0.022936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Square Switch On.png
+  artifactKey: Guid(c02de5852d43e4e23bc0a4b5cc266230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Square Switch On.png using Guid(c02de5852d43e4e23bc0a4b5cc266230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354a18c3fa758dc10b3c386f68f8eee6') in 0.020221 seconds
+  Import took 0.023784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Dark Round Tab.png
+  artifactKey: Guid(93c63e67306814d6486fd7bee93f4426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Dark Round Tab.png using Guid(93c63e67306814d6486fd7bee93f4426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a20bedff289703b08366a58cf29557') in 0.023946 seconds
+  Import took 0.027472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Round Button.png
+  artifactKey: Guid(8e354bd2437594e9bb376ffa06c9ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Round Button.png using Guid(8e354bd2437594e9bb376ffa06c9ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0e24783004f1599db3869353e5532c') in 0.020106 seconds
+  Import took 0.023512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Square Button.png
+  artifactKey: Guid(28a56a91eea824a6595651bfd457e79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Square Button.png using Guid(28a56a91eea824a6595651bfd457e79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72bebf5e09d11c241ed99806bf89176') in 0.018863 seconds
+  Import took 0.022783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Green Checkerboard.png
+  artifactKey: Guid(9fb04f65535cd47cd8c226d5249a6415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Green Checkerboard.png using Guid(9fb04f65535cd47cd8c226d5249a6415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee79f38e96254e29572b41f1c9fba1fa') in 0.021647 seconds
+  Import took 0.025203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Rounded Switch On.png
+  artifactKey: Guid(8b0b36ec102434636b1c95ff0e870fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Rounded Switch On.png using Guid(8b0b36ec102434636b1c95ff0e870fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0500cbb52d7f4b34102f45202312c210') in 0.018438 seconds
+  Import took 0.021902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Sound.png
+  artifactKey: Guid(cf48101c791c04974bbd765a063dab44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Sound.png using Guid(cf48101c791c04974bbd765a063dab44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca24284ff2bfefb1c098fa4500c41b4') in 0.021222 seconds
+  Import took 0.024449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark X.png
+  artifactKey: Guid(2cb5d8329fe554f84b289db2aac8dd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark X.png using Guid(2cb5d8329fe554f84b289db2aac8dd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518fc94439ed523d33a07593adce7174') in 0.020997 seconds
+  Import took 0.024031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Square Switch Off.png
+  artifactKey: Guid(10bf3731434a64a9a9e5d595c5245e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Square Switch Off.png using Guid(10bf3731434a64a9a9e5d595c5245e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d644d585c4627ad6306815e62cec161') in 0.017859 seconds
+  Import took 0.020963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Dark Rounded Window.png
+  artifactKey: Guid(82f94fe808b5341fd9566d544c5cb6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Dark Rounded Window.png using Guid(82f94fe808b5341fd9566d544c5cb6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437159a4b4d39307bb3b0923cb7c70f0') in 0.018930 seconds
+  Import took 0.022140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Up Arrow.png
+  artifactKey: Guid(819578eb43eda44b0b066a9a66e75363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Up Arrow.png using Guid(819578eb43eda44b0b066a9a66e75363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6da45a989462ee683ce18e28c68a42') in 0.020066 seconds
+  Import took 0.023236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Circle Outline Button.png
+  artifactKey: Guid(9dc06b146dc694d3083c3ea4fb0079d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Circle Outline Button.png using Guid(9dc06b146dc694d3083c3ea4fb0079d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7e0a12e93f2eb284ab77471cda76e7') in 0.019534 seconds
+  Import took 0.022790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Square Outline Button.png
+  artifactKey: Guid(6c7b81f3c72974de19ac7027704d8f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Square Outline Button.png using Guid(6c7b81f3c72974de19ac7027704d8f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f2a8e4553a1000da4a541c3f5fecdf') in 0.019768 seconds
+  Import took 0.023069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/#NVJOB Alpha Flashing UI/Example Scenes/Materials/Images/Images.jpg
+  artifactKey: Guid(dfc864db5987e5b46b3f945a5fecc8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Alpha Flashing UI/Example Scenes/Materials/Images/Images.jpg using Guid(dfc864db5987e5b46b3f945a5fecc8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43beb93b3e051e50195b0fd860c90263') in 0.058806 seconds
+  Import took 0.062020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Clean Settings UI/Images/line_background.png
+  artifactKey: Guid(9d155774f1cd844f9978af0b323fe107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_background.png using Guid(9d155774f1cd844f9978af0b323fe107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e364e3b4d7c1d9459dc3d627ca8b9a') in 0.017780 seconds
+  Import took 0.020942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Square Switch Off.png
+  artifactKey: Guid(32bcd02d627c148168a2a603223ad80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Square Switch Off.png using Guid(32bcd02d627c148168a2a603223ad80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e743cd62d4ab86547bcd5f7d3db6bbb0') in 0.017288 seconds
+  Import took 0.020466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Green Square Window.png
+  artifactKey: Guid(a2dc67863e77d4627ad3970d18ea41e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Green Square Window.png using Guid(a2dc67863e77d4627ad3970d18ea41e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c219cf0de3223e47192de03a36d7a157') in 0.018746 seconds
+  Import took 0.022781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Scene Transitions/Fade to Black.png
+  artifactKey: Guid(787cf6daf0d2d45a5b8f95a848d703b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Scene Transitions/Fade to Black.png using Guid(787cf6daf0d2d45a5b8f95a848d703b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fd12c69e243769d0b3b692f65cc942') in 0.021299 seconds
+  Import took 0.024564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Rounded Outline Button.png
+  artifactKey: Guid(1ed88a02cd6854e13bdcea1895d8dafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Rounded Outline Button.png using Guid(1ed88a02cd6854e13bdcea1895d8dafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bbd61899a2497b63b82004d11e4f0c') in 0.019150 seconds
+  Import took 0.022189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Green Round Tab.png
+  artifactKey: Guid(7aae8e35187dc4abba6b5b5656e303f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Green Round Tab.png using Guid(7aae8e35187dc4abba6b5b5656e303f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d534cbcc66dd01bf7de92887266b08a') in 0.018673 seconds
+  Import took 0.022257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Green Rounded Window.png
+  artifactKey: Guid(b79e5e858702844669f573cd10eb1ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Green Rounded Window.png using Guid(b79e5e858702844669f573cd10eb1ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78544dc9acce49e1b8fdf905573aad9b') in 0.018713 seconds
+  Import took 0.021927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Dark Square Window.png
+  artifactKey: Guid(0c9c1783230404e3ea3930be66eab709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Dark Square Window.png using Guid(0c9c1783230404e3ea3930be66eab709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e084f2672efa34f0f62e6c2b92d31b82') in 0.020266 seconds
+  Import took 0.023661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Dark Stripes.png
+  artifactKey: Guid(c4ce27367278c4380a08bedcd3137ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Dark Stripes.png using Guid(c4ce27367278c4380a08bedcd3137ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e51c7e1a57f52997a02bf0c5e55fd40') in 0.022104 seconds
+  Import took 0.024894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Rounded Switch Off.png
+  artifactKey: Guid(50286193103a74a07858afe56b85838c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Green Rounded Switch Off.png using Guid(50286193103a74a07858afe56b85838c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2980d6ec3418dc2fdb9f38d25963a7') in 0.020686 seconds
+  Import took 0.024042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Round Button.png
+  artifactKey: Guid(3702a3287128749ccbf7c9bd7c13c871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Round Button.png using Guid(3702a3287128749ccbf7c9bd7c13c871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf5987353eac1877d2455221df654c4') in 0.021826 seconds
+  Import took 0.026323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Clean Settings UI/Images/container.png
+  artifactKey: Guid(ae2d1015e15df4abab1d825856a6a60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/container.png using Guid(ae2d1015e15df4abab1d825856a6a60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1579342a8bf4d04795c6df0955f96f3') in 0.019933 seconds
+  Import took 0.023574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Circle Outline Button.png
+  artifactKey: Guid(7d0420c800f674185a20c5f8dd6d3be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Circle Outline Button.png using Guid(7d0420c800f674185a20c5f8dd6d3be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112b1e00c582878c07e7c750ab9a9389') in 0.020730 seconds
+  Import took 0.023728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Square Switch Off.png
+  artifactKey: Guid(9aa581cf681c040a4a19e43d6bfbf78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Square Switch Off.png using Guid(9aa581cf681c040a4a19e43d6bfbf78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334996b599ad9611324e9e7a218d9b14') in 0.017959 seconds
+  Import took 0.021462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Clean Settings UI/Images/icons/arrow_right.png
+  artifactKey: Guid(fd064687148654f6d90c9baf473ef074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/arrow_right.png using Guid(fd064687148654f6d90c9baf473ef074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1a98a68257a93e1ea9a7a5f2fc21a3') in 0.023000 seconds
+  Import took 0.026345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Plus.png
+  artifactKey: Guid(8aba7b2c03e82491389e5d6705552b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Plus.png using Guid(8aba7b2c03e82491389e5d6705552b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4bd996b83ec04ba60ef205b35a4627') in 0.019467 seconds
+  Import took 0.022834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Round Outline Button.png
+  artifactKey: Guid(5fa85b6040900479daac222f222158ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Round Outline Button.png using Guid(5fa85b6040900479daac222f222158ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4448ec749c2699e742d794a7a76dacfb') in 0.022450 seconds
+  Import took 0.025984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Down Arrow.png
+  artifactKey: Guid(1b6ddff80fe8a40b38397ad0d29423c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Down Arrow.png using Guid(1b6ddff80fe8a40b38397ad0d29423c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76ded6adeff2fb023cc8b90889a8237') in 0.022032 seconds
+  Import took 0.025341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Dark Checkerboard.png
+  artifactKey: Guid(4a4b973ee4fc740238c6360079c00a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Dark Checkerboard.png using Guid(4a4b973ee4fc740238c6360079c00a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3336dc71d6671a9448d73d5a9fb37d') in 0.023899 seconds
+  Import took 0.027370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Minus.png
+  artifactKey: Guid(2955a694378af44dca80c7797d631fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Minus.png using Guid(2955a694378af44dca80c7797d631fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5b48bfd996dc1c2a1d2d5fe0081bf3') in 0.031560 seconds
+  Import took 0.035951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Clean Settings UI/Images/backgrounds/background3.png
+  artifactKey: Guid(665924ecd5ef34a5b8baf6f892de3460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/backgrounds/background3.png using Guid(665924ecd5ef34a5b8baf6f892de3460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb688a0946addc04c81ff6f410ca92fc') in 0.045768 seconds
+  Import took 0.049982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Gear.png
+  artifactKey: Guid(8c3c0166eb1b643f4a06a5354040bf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Gear.png using Guid(8c3c0166eb1b643f4a06a5354040bf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01786fe8db644a0ae92d56d0d726807c') in 0.022131 seconds
+  Import took 0.025656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Blue Rounded Window.png
+  artifactKey: Guid(7974d998bb2ae4cd9b79b452c60029f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Blue Rounded Window.png using Guid(7974d998bb2ae4cd9b79b452c60029f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d551283c9e2db3afe4671cf9409f632') in 0.019642 seconds
+  Import took 0.022999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Checkmark.png
+  artifactKey: Guid(60b3a0f5c4ccc42f7b8301ee4973f512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Checkmark.png using Guid(60b3a0f5c4ccc42f7b8301ee4973f512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d9b9b2acd91290d832789683ddb1ebf') in 0.021066 seconds
+  Import took 0.023937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Clean Settings UI/Images/icons/cancel.png
+  artifactKey: Guid(9c8bbf7e6ce8f4eeebcdb9752dc45ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/cancel.png using Guid(9c8bbf7e6ce8f4eeebcdb9752dc45ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2545bad027144f3c39fdbc17b2fd39') in 0.018672 seconds
+  Import took 0.022023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Rounded Switch On.png
+  artifactKey: Guid(b457806e19ef442229e0cd49418d1d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Rounded Switch On.png using Guid(b457806e19ef442229e0cd49418d1d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28379655895b34976af406336e655d64') in 0.021185 seconds
+  Import took 0.024369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Round Button.png
+  artifactKey: Guid(3c6eef88ff67043a3ab37af593f8620a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Round Button.png using Guid(3c6eef88ff67043a3ab37af593f8620a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510d9d491738df1df41f55c357105dae') in 0.018207 seconds
+  Import took 0.021650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Square Button.png
+  artifactKey: Guid(0cafdc2798ba044ad8c47e37dfe1f056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Square Button.png using Guid(0cafdc2798ba044ad8c47e37dfe1f056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b2ca653eb971103f6066b409108cb0') in 0.020805 seconds
+  Import took 0.024075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Dots.png
+  artifactKey: Guid(e2673fc7391ff4256918cd4d93943a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Dots.png using Guid(e2673fc7391ff4256918cd4d93943a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9104b4556046a5c2414d4373cbfa221') in 0.024250 seconds
+  Import took 0.028133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Exclamation.png
+  artifactKey: Guid(eb1fdf509ce5e41f18c2a9500ed4fea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Exclamation.png using Guid(eb1fdf509ce5e41f18c2a9500ed4fea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acdf51f7d24f8dc70c789f01cedce84') in 0.021132 seconds
+  Import took 0.025019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Square Switch On.png
+  artifactKey: Guid(4071528e8551d4ce6b9cd02607d1858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Square Switch On.png using Guid(4071528e8551d4ce6b9cd02607d1858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8dd0c4c3744271dd4981e6d368245ed') in 0.017378 seconds
+  Import took 0.020225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Clean Settings UI/Images/icons/arrow_up.png
+  artifactKey: Guid(e14bde6b7070d4c7692c1438dc57b3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/arrow_up.png using Guid(e14bde6b7070d4c7692c1438dc57b3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d6b239a2f363c18f0b667bbbd673c4') in 0.019563 seconds
+  Import took 0.023175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Clean Settings UI/Images/backgrounds/background1.png
+  artifactKey: Guid(a71ff11d2e94b48d09594ecebc7ac9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/backgrounds/background1.png using Guid(a71ff11d2e94b48d09594ecebc7ac9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f92e30d768e04fdb12c8052cdca61c7') in 0.026509 seconds
+  Import took 0.029938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Blue Input Field.png
+  artifactKey: Guid(631806e346db9455e9f14819df36b7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Blue Input Field.png using Guid(631806e346db9455e9f14819df36b7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1330ee2ad9ef5f3d8745222c5785d779') in 0.020673 seconds
+  Import took 0.023998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Blue Checkerboard.png
+  artifactKey: Guid(b12674d14bb6f419783b196182d84714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Blue Checkerboard.png using Guid(b12674d14bb6f419783b196182d84714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361d74fcd87b83932086ccdceca5c3c7') in 0.018609 seconds
+  Import took 0.021940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Circle Button.png
+  artifactKey: Guid(78a0bf8f458524411bab8f762f983f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Circle Button.png using Guid(78a0bf8f458524411bab8f762f983f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c0acc978ddce8e2f992e4a9a66e088') in 0.019764 seconds
+  Import took 0.023755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Mute.png
+  artifactKey: Guid(7ea27d795133348878d46789b5fe4337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Mute.png using Guid(7ea27d795133348878d46789b5fe4337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6457477163600162c9a558c9d2b1a629') in 0.021157 seconds
+  Import took 0.024522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Square Outline Button.png
+  artifactKey: Guid(6bc454c18443941b496e577e1eb93a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Square Outline Button.png using Guid(6bc454c18443941b496e577e1eb93a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3592901dc69d2cb3c44de2c1a2d5183') in 0.020813 seconds
+  Import took 0.024564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Blue Stripes.png
+  artifactKey: Guid(473f10ee963b644f4bef41f2b5dcccc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Backgrounds/Blue Stripes.png using Guid(473f10ee963b644f4bef41f2b5dcccc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eafaaf782de5197f59fd487762ee785') in 0.019865 seconds
+  Import took 0.024257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Circle Button.png
+  artifactKey: Guid(0d1cc1614df9a42d8aec0469b1e60a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Circle Button.png using Guid(0d1cc1614df9a42d8aec0469b1e60a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee093c8f685e3dbc50677799e5efedde') in 0.019089 seconds
+  Import took 0.022646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Circle Outline Button.png
+  artifactKey: Guid(79008e6d026d84f94a594b62fa815314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Circle Outline Button.png using Guid(79008e6d026d84f94a594b62fa815314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e852711721145c6855c713dd364997d') in 0.021003 seconds
+  Import took 0.024662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Rounded Switch Off.png
+  artifactKey: Guid(cba7ce4a138bc4fa1be5ea62e1fc17b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Blue Rounded Switch Off.png using Guid(cba7ce4a138bc4fa1be5ea62e1fc17b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318ce2210be4b6f8f2422784d2817ad5') in 0.022222 seconds
+  Import took 0.025628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Play.png
+  artifactKey: Guid(ec64c286fac2449848bf69c46b4980d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Play.png using Guid(ec64c286fac2449848bf69c46b4980d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1418306d067d80b3d4c7840c4a3a715') in 0.020227 seconds
+  Import took 0.023156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Clean Settings UI/Images/icons/arrow_down.png
+  artifactKey: Guid(a75e30c3b0b7848698e88309ce9d3f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/arrow_down.png using Guid(a75e30c3b0b7848698e88309ce9d3f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5059f847fa3067bae88c79dbd605bf9a') in 0.016634 seconds
+  Import took 0.019927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Clean Settings UI/Images/backgrounds/background2.png
+  artifactKey: Guid(6b1bfa748364b48bebc54f171bfebbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/backgrounds/background2.png using Guid(6b1bfa748364b48bebc54f171bfebbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6aeac9f1e657d90d26c071ed426986') in 0.025922 seconds
+  Import took 0.029292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Pause.png
+  artifactKey: Guid(41ffa33d53fb44752a17c9253186686f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Pause.png using Guid(41ffa33d53fb44752a17c9253186686f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfab61fe89ae9e56a2e50f2a218b3a1') in 0.022205 seconds
+  Import took 0.025992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Clean Settings UI/Images/icons/confirm.png
+  artifactKey: Guid(1c9bf600e0e954c5a825669b8717829a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/confirm.png using Guid(1c9bf600e0e954c5a825669b8717829a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b14b77371d50810fe61badad5ec5541') in 0.019217 seconds
+  Import took 0.022306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Bars.png
+  artifactKey: Guid(ac1796dcbf91c4ce9852cb0e516aa614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Bars.png using Guid(ac1796dcbf91c4ce9852cb0e516aa614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495b0cbcc04d1166d227e7355e6c8119') in 0.022306 seconds
+  Import took 0.025812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Windows/Blue Square Window.png
+  artifactKey: Guid(439d5b7b84deb4a9596236dfe5b9d797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Windows/Blue Square Window.png using Guid(439d5b7b84deb4a9596236dfe5b9d797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593bda6b17ff58fbad5171def0ecb572') in 0.019531 seconds
+  Import took 0.022497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Rounded Outline Button.png
+  artifactKey: Guid(4ef3f5adb6c6d4226a87a50ae9eb8b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Rounded Outline Button.png using Guid(4ef3f5adb6c6d4226a87a50ae9eb8b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b2ab47ff8e67af20225b03cd973000') in 0.018093 seconds
+  Import took 0.021421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Dark Input Field.png
+  artifactKey: Guid(f30f367f46e8043d28e148ddbdb619d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Input Fields/Dark Input Field.png using Guid(f30f367f46e8043d28e148ddbdb619d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a571891c66ad0962751117d9c970def') in 0.018502 seconds
+  Import took 0.021830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Blue Round Tab.png
+  artifactKey: Guid(e6288fee0c38640ec9bae245aba978fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Blue Round Tab.png using Guid(e6288fee0c38640ec9bae245aba978fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eebbb9119cbc1f02e3a53f1745a29ea') in 0.022306 seconds
+  Import took 0.025549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Rounded Button.png
+  artifactKey: Guid(0b4d929628fb1451b84de65e27f0789d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Blue Rounded Button.png using Guid(0b4d929628fb1451b84de65e27f0789d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ec6bfc76a6654dde9e7fe4993dd254') in 0.018909 seconds
+  Import took 0.022637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Clean Settings UI/Images/icons/arrow_left.png
+  artifactKey: Guid(b801472263f6a46bca45123b84a1a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/icons/arrow_left.png using Guid(b801472263f6a46bca45123b84a1a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0edbd1dca9d4e5428498fd89d8daba') in 0.019623 seconds
+  Import took 0.022628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Info.png
+  artifactKey: Guid(64962464d95374bec9ca01c28b3a54a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Info.png using Guid(64962464d95374bec9ca01c28b3a54a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784af1fb37be14f6bb3f8cf57b9e4bf0') in 0.020768 seconds
+  Import took 0.024000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Rounded Button.png
+  artifactKey: Guid(a80101232bdf848a38a10881ea870425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Dark Rounded Button.png using Guid(a80101232bdf848a38a10881ea870425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad86175a02dc12e66468a8e4afd43e6') in 0.018559 seconds
+  Import took 0.022128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Blue Round Inactive Tab.png
+  artifactKey: Guid(f842610c9b48c40c18c82ecc44966062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Tabs/Blue Round Inactive Tab.png using Guid(f842610c9b48c40c18c82ecc44966062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d0be06bd8c7e73e6c5158881e49fbe') in 0.022872 seconds
+  Import took 0.026171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Square Button.png
+  artifactKey: Guid(2a0d1dbd56dec40abb8138c0592c299a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Buttons/Green Square Button.png using Guid(2a0d1dbd56dec40abb8138c0592c299a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce563e44ba86d49fcb649b24de8028a') in 0.019758 seconds
+  Import took 0.023294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Left Arrow.png
+  artifactKey: Guid(bf0f86f7c3dbe4c8eab456408a66edc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Left Arrow.png using Guid(bf0f86f7c3dbe4c8eab456408a66edc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c159d37aaf5cfad892fea056579cacf3') in 0.028687 seconds
+  Import took 0.033059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Rounded Switch Off.png
+  artifactKey: Guid(58fb70e7b882b41b889205ead88b389f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Toggles/Dark Rounded Switch Off.png using Guid(58fb70e7b882b41b889205ead88b389f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffd4b84f5e66196e45a3ea819a33a48') in 0.022392 seconds
+  Import took 0.026324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Right Arrow.png
+  artifactKey: Guid(7d83dc62e94b64eba9abcfd29451a40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Right Arrow.png using Guid(7d83dc62e94b64eba9abcfd29451a40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391e3c17e3809a2923ec7545d4a7fa9b') in 0.025954 seconds
+  Import took 0.030423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Question.png
+  artifactKey: Guid(4011a12b3d33344f3964cfa65c962379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark Question.png using Guid(4011a12b3d33344f3964cfa65c962379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd894c79de8fa9a76c03c25622cddce45') in 0.021879 seconds
+  Import took 0.025658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark House.png
+  artifactKey: Guid(62903b20a9e7543f788f983367e44657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quantum Tek/Quantum UI/Sprites/Icons/Dark House.png using Guid(62903b20a9e7543f788f983367e44657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dead203f2a15f8076b90c9dcced20a22') in 0.021056 seconds
+  Import took 0.024517 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001023 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 4.229000 ms (FindLiveObjects: 0.438000 ms CreateObjectMapping: 0.069700 ms MarkObjects: 2.144200 ms  DeleteObjects: 1.575200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1702.
+Total: 4.554600 ms (FindLiveObjects: 0.356600 ms CreateObjectMapping: 0.081500 ms MarkObjects: 2.204100 ms  DeleteObjects: 1.907700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1704.
+Total: 4.350100 ms (FindLiveObjects: 0.223000 ms CreateObjectMapping: 0.058100 ms MarkObjects: 2.259700 ms  DeleteObjects: 1.807600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.306 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1706.
+Total: 4.742900 ms (FindLiveObjects: 0.459100 ms CreateObjectMapping: 0.135400 ms MarkObjects: 2.302400 ms  DeleteObjects: 1.842800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1708.
+Total: 4.837000 ms (FindLiveObjects: 0.211500 ms CreateObjectMapping: 0.042200 ms MarkObjects: 2.587300 ms  DeleteObjects: 1.993800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 4.498200 ms (FindLiveObjects: 0.266400 ms CreateObjectMapping: 0.052700 ms MarkObjects: 2.492700 ms  DeleteObjects: 1.684400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000978 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.4 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1712.
+Total: 5.166200 ms (FindLiveObjects: 0.207900 ms CreateObjectMapping: 0.035600 ms MarkObjects: 3.026100 ms  DeleteObjects: 1.894600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1714.
+Total: 4.388200 ms (FindLiveObjects: 0.234000 ms CreateObjectMapping: 0.069300 ms MarkObjects: 2.354100 ms  DeleteObjects: 1.728900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1716.
+Total: 4.613200 ms (FindLiveObjects: 0.319400 ms CreateObjectMapping: 0.064400 ms MarkObjects: 2.313000 ms  DeleteObjects: 1.913700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 6.377900 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.039600 ms MarkObjects: 3.894300 ms  DeleteObjects: 2.216400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.449 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.7 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 3.852200 ms (FindLiveObjects: 0.241600 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.846600 ms  DeleteObjects: 1.711200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1722.
+Total: 4.849800 ms (FindLiveObjects: 0.351000 ms CreateObjectMapping: 0.154600 ms MarkObjects: 2.636800 ms  DeleteObjects: 1.705300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1724.
+Total: 6.399000 ms (FindLiveObjects: 0.365700 ms CreateObjectMapping: 0.101300 ms MarkObjects: 3.010000 ms  DeleteObjects: 2.918900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000914 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 4.371300 ms (FindLiveObjects: 0.238900 ms CreateObjectMapping: 0.047400 ms MarkObjects: 2.410900 ms  DeleteObjects: 1.672200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000872 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 7.114400 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.040300 ms MarkObjects: 3.997100 ms  DeleteObjects: 2.851100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000812 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 4.199300 ms (FindLiveObjects: 0.279800 ms CreateObjectMapping: 0.078300 ms MarkObjects: 2.141300 ms  DeleteObjects: 1.697600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.326 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1732.
+Total: 4.769600 ms (FindLiveObjects: 0.353000 ms CreateObjectMapping: 0.126600 ms MarkObjects: 2.567800 ms  DeleteObjects: 1.719800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 4.686800 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.044000 ms MarkObjects: 2.596700 ms  DeleteObjects: 1.808200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001009 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1736.
+Total: 4.685400 ms (FindLiveObjects: 0.303600 ms CreateObjectMapping: 0.062700 ms MarkObjects: 2.461700 ms  DeleteObjects: 1.855100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000905 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.4 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 4.259600 ms (FindLiveObjects: 0.285800 ms CreateObjectMapping: 0.058300 ms MarkObjects: 2.207700 ms  DeleteObjects: 1.705800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000812 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1740.
+Total: 5.208100 ms (FindLiveObjects: 0.291800 ms CreateObjectMapping: 0.057500 ms MarkObjects: 2.593600 ms  DeleteObjects: 2.263300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 3.916800 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.051600 ms MarkObjects: 2.037100 ms  DeleteObjects: 1.546100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.167 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.7 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1744.
+Total: 5.021600 ms (FindLiveObjects: 0.231200 ms CreateObjectMapping: 0.048800 ms MarkObjects: 2.382900 ms  DeleteObjects: 2.356400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.7 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 4.453400 ms (FindLiveObjects: 0.344900 ms CreateObjectMapping: 0.069200 ms MarkObjects: 2.427700 ms  DeleteObjects: 1.609800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.8 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1748.
+Total: 6.303000 ms (FindLiveObjects: 0.394500 ms CreateObjectMapping: 0.095600 ms MarkObjects: 3.440700 ms  DeleteObjects: 2.368900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001214 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.085 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1750.
+Total: 4.709600 ms (FindLiveObjects: 0.266800 ms CreateObjectMapping: 0.052000 ms MarkObjects: 2.282300 ms  DeleteObjects: 2.105800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000908 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1752.
+Total: 4.319200 ms (FindLiveObjects: 0.219500 ms CreateObjectMapping: 0.041800 ms MarkObjects: 2.356800 ms  DeleteObjects: 1.699400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1754.
+Total: 4.216400 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.036100 ms MarkObjects: 2.290900 ms  DeleteObjects: 1.672800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000873 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 5.186500 ms (FindLiveObjects: 0.245600 ms CreateObjectMapping: 0.053800 ms MarkObjects: 2.702500 ms  DeleteObjects: 2.182400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1758.
+Total: 4.142300 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.092900 ms MarkObjects: 2.075900 ms  DeleteObjects: 1.653400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1760.
+Total: 4.939700 ms (FindLiveObjects: 0.220200 ms CreateObjectMapping: 0.038400 ms MarkObjects: 2.964400 ms  DeleteObjects: 1.714400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.4 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 6.451700 ms (FindLiveObjects: 0.316900 ms CreateObjectMapping: 0.074000 ms MarkObjects: 3.580100 ms  DeleteObjects: 2.477700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1764.
+Total: 4.514300 ms (FindLiveObjects: 0.245600 ms CreateObjectMapping: 0.054500 ms MarkObjects: 2.436600 ms  DeleteObjects: 1.775500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
